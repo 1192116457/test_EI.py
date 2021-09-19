@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53d327c8-bd15-47b5-83b9-e203211c3ade" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ahkab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahkab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bfpss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsim3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circuit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dc_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dc_analysis_backup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dc_guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyn.sp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyn.sp_parsed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyn_GEAR2_cs_fixed-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyn_GEAR2_cs_fixed.tran" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expint1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expint_20200913.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expint_backup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expint_linear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expint_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expint_newton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expint_rational.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/implicit_euler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m_hspice.sp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mdn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memristor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memristor_taha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mosq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlist_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plotting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results_backup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shooting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shooting_backup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/step_and_lte_GEAR2_2.0000000000000004e-12.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/step_and_lte_TRAP_2.0000000000000004e-12.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/switch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/symbolic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_EI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ticker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transient_20210327.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transient_backup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/__main__.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1xcLD2lBYWmRo1vtbKoBnXLm2Vd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_EI.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ahkab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_EI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ahkab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\application\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_EI.py" />
+      <option name="PARAMETERS" value="dyn.sp" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_EI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53d327c8-bd15-47b5-83b9-e203211c3ade" name="Changes" comment="" />
+      <created>1630649317017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630649317017</updated>
+      <workItem from="1630649318398" duration="874000" />
+      <workItem from="1631073970315" duration="28000" />
+      <workItem from="1631074052382" duration="146000" />
+      <workItem from="1631079986452" duration="3000" />
+      <workItem from="1631080147714" duration="14000" />
+      <workItem from="1631241679886" duration="329000" />
+      <workItem from="1631242036078" duration="2054000" />
+      <workItem from="1631245596081" duration="1322000" />
+      <workItem from="1631252781294" duration="183000" />
+      <workItem from="1631254296741" duration="74000" />
+      <workItem from="1631254386900" duration="12000" />
+      <workItem from="1631277242713" duration="1831000" />
+      <workItem from="1631279152362" duration="145000" />
+      <workItem from="1631411027110" duration="1322000" />
+      <workItem from="1631414314513" duration="681000" />
+      <workItem from="1631415334716" duration="2286000" />
+      <workItem from="1631535612095" duration="8197000" />
+      <workItem from="1631583297400" duration="1349000" />
+      <workItem from="1631589502632" duration="1201000" />
+      <workItem from="1631602123833" duration="723000" />
+      <workItem from="1631602879286" duration="1531000" />
+      <workItem from="1631670820499" duration="6505000" />
+      <workItem from="1631680401352" duration="729000" />
+      <workItem from="1631694184649" duration="7215000" />
+      <workItem from="1631708118168" duration="11097000" />
+      <workItem from="1631756437391" duration="3027000" />
+      <workItem from="1631765727172" duration="16000" />
+      <workItem from="1631962966252" duration="1793000" />
+      <workItem from="1631967806631" duration="1231000" />
+      <workItem from="1631970720955" duration="20000" />
+      <workItem from="1632019976544" duration="15000" />
+      <workItem from="1632061350253" duration="1248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test_EI_py$test_EI.coverage" NAME="test_EI Coverage Results" MODIFIED="1631603211284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ahkab_py$test_EI.coverage" NAME="test_EI Coverage Results" MODIFIED="1631712314026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ahkab_py$.coverage" NAME=" Coverage Results" MODIFIED="1631589195951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
